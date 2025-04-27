@@ -8,4 +8,4 @@ In this project, I created a basic webpage for NewJeans, which includes a header
 
 
 **PREVIEW**
-![enter image description here](https://imgur.com/a/NsTFoGV)
+![enter image description here](https://imgur.com/UHRkeA9)
